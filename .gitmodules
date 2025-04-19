@@ -1,3 +1,6 @@
 [submodule "datascraping-reddit"]
 	path = datascraping-reddit
 	url = git@github.com:fandakrus/datascraping-reddit.git
+[submodule "datascraping-telegram"]
+	path = datascraping-telegram
+	url = git@github.com:fandakrus/datascraping-telegram.git
